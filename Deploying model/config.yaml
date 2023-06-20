@@ -1,0 +1,17 @@
+cookie:
+  expiry_days: 0
+  key: ddcdef
+  name: crop_yield
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: administrator
+      password: XXXXXX
+    chambers:
+      email: chambers@gmail.com
+      name: Dumanyie Chamberlain
+      password: XXXXXX
+preauthorized:
+  emails:
+  - melsby@gmail.com
